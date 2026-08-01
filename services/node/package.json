@@ -1,0 +1,10 @@
+{
+  "name": "@akshar/node",
+  "version": "0.1.0",
+  "license": "AGPL-3.0-only",
+  "scripts": {
+    "build": "echo 'Go service: build handled separately (see S-003)'",
+    "test": "echo 'Go service: tests handled separately (see S-003)'",
+    "lint": "echo 'Go service: lint handled separately (see S-003)'"
+  }
+}

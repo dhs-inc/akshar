@@ -1,0 +1,10 @@
+{
+  "name": "@akshar/sdk",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "echo building sdk",
+    "test": "echo testing sdk",
+    "lint": "echo linting sdk"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "akshar",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Akshar Protocol monorepo",
+  "license": "AGPL-3.0-only",
+  "scripts": {
+    "build": "turbo run build",
+    "test": "turbo run test",
+    "lint": "turbo run lint"
+  },
+  "devDependencies": {
+    "turbo": "2.9.16"
+  },
+  "packageManager": "pnpm@11.5.2"
+}

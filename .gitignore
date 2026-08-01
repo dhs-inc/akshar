@@ -1,0 +1,17 @@
+# Dependencies
+node_modules
+
+# Turbo
+.turbo
+
+# Build outputs
+dist
+build
+*.log
+
+# OS
+.DS_Store
+
+# Go
+services/node/data/
+*.test
